@@ -110,6 +110,7 @@ If you want to use above non published images, build it by yourself. Dockerfile 
 - `Kinesis` [Dockerfile](docker-image/v1.16/debian-kinesis/Dockerfile)
   - `docker pull fluent/fluentd-kubernetes-daemonset:v1.16.1-debian-kinesis-amd64-1.2`
   - `docker pull fluent/fluentd-kubernetes-daemonset:v1.16-debian-kinesis-amd64-1`
+- `Kinesis-firehose` [Dockerfile](docker-image/v1.16/debian-kinesis-firehose/Dockerfile)
 
 ##### arm64 images
 - `Azureblob` [Dockerfile](docker-image/v1.16/arm64/debian-azureblob/Dockerfile)
